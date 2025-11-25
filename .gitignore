@@ -1,0 +1,9 @@
+# Ignorar ambiente virtual
+.venv/
+
+# Ignorar configurações do VSCode
+.vscode/
+
+# Ignorar arquivos com extensão .uasim
+*.uasim
+*.uasim.autosave
