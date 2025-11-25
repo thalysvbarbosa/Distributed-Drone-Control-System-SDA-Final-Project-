@@ -100,5 +100,5 @@ python sinotico.py
 ## 👥 Authors
 
   * **SDA Class 2025/02** - UFMG
-  * *Arthur Pires*
+  * *Arthur Pires and*
     *Thalys Barbosa*
